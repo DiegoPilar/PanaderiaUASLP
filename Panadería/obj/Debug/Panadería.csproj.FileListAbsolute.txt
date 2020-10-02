@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.Panadería.resources
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\bin\Debug\Panadería.exe.config
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\bin\Debug\Panadería.exe
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\bin\Debug\Panadería.pdb
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.exe
+C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.pdb
