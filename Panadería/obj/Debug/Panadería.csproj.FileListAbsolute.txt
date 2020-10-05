@@ -8,3 +8,12 @@ C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto
 C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\bin\Debug\Panadería.pdb
 C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.exe
 C:\Users\Lenovo\Desktop\11° Semestre\Administración de bases de datos\Proyecto\Panadería\Panadería\obj\Debug\Panadería.pdb
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\bin\Debug\Panadería.exe.config
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\obj\Debug\Panadería.pdb
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\bin\Debug\Panadería.exe
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\bin\Debug\Panadería.pdb
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\obj\Debug\Panadería.csprojResolveAssemblyReference.cache
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\obj\Debug\Panadería.Panadería.resources
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\obj\Debug\Panadería.Properties.Resources.resources
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\obj\Debug\Panadería.csproj.GenerateResource.Cache
+C:\Users\Amd A4\Downloads\PanaderiaUASLP-main\Panadería\obj\Debug\Panadería.exe

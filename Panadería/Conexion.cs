@@ -4,17 +4,27 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
+
 
 namespace Panadería
 {
     class Conexion
     {
-        //string ConnectonString = "DESKTOP-GNFMIHK\\SQLEXPRESS\\SQLEXPRESS;DATABASE=Panaderia;integrated security=true";
+        private const string ConnectionString = "SERVER=DIEGO\\SQLEXPRESS01;DATABASE=Panaderia;integrated security=TRUE";
+        public static SqlConnection Conectar()
+        {
+            SqlConnection con = new SqlConnection(ConnectionString);
+            try
+            {
+                con.Open();
+            }
+            catch
+            {
+                MessageBox.Show("Error al conectar la base de datos", "Error de conexión", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
 
-        //public static 
-        //SqlConnection cn = new SqlConnection(ConnectonString);
-
-
-
+            return con;
+        }
     }
 }
